@@ -10,4 +10,9 @@ echo "El resultado es: ".$resultado;
 
 $float = 16.5;
 
+// declararemos una constante en PHP 
+
+define("name" Jesus, false);
+
+
 ?>
